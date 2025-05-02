@@ -1,6 +1,7 @@
 # 🌟 PokéExplorer - A Modern React Pokémon Explorer
 
-![PokéExplorer Banner](https://images.pexels.com/photos/1310847/pexels-photo-1310847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+[![Pokemon Explorer Screenshot](https://images.pexels.com/photos/1310847/pexels-photo-1310847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)](https://pokemon-explorer-nine-peach.vercel.app/)
+
 
 A professional, high-performance React application for exploring the first 150 Pokémon. Built with modern React best practices, TypeScript, and Tailwind CSS.
 
