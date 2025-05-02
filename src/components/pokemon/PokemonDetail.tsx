@@ -13,7 +13,6 @@ const PokemonDetail: React.FC = () => {
   const pokemonId = parseInt(id || '0', 10);
   
   const { 
-    allPokemon, 
     getPokemonById, 
     isLoading, 
     isFavorite, 
